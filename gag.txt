@@ -1,1 +1,2 @@
-code-dans.gl.at.ply.gg:56528
+host=code-dans.gl.at.ply.gg
+port=56528
